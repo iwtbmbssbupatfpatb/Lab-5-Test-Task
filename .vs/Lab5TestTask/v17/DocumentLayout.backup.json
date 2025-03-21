@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|c:\\users\\drankovich\\documents\\test\\lab-5-test-task\\lab5testtask\\lab5testtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|solutionrelative:lab5testtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|c:\\users\\drankovich\\documents\\test\\lab-5-test-task\\lab5testtask\\services\\implementations\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|solutionrelative:services\\implementations\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|c:\\users\\drankovich\\documents\\test\\lab-5-test-task\\lab5testtask\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|solutionrelative:controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|c:\\users\\drankovich\\documents\\test\\lab-5-test-task\\lab5testtask\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|c:\\users\\drankovich\\documents\\test\\lab-5-test-task\\lab5testtask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|c:\\users\\drankovich\\documents\\test\\lab-5-test-task\\lab5testtask\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|solutionrelative:models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|c:\\users\\drankovich\\documents\\test\\lab-5-test-task\\lab5testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF6053-F6D5-4066-ADD2-7F04CCEA27B3}|Lab5TestTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 248,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab5TestTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Lab5TestTask.csproj",
+              "RelativeDocumentMoniker": "Lab5TestTask.csproj",
+              "ToolTip": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Lab5TestTask.csproj",
+              "RelativeToolTip": "Lab5TestTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T17:38:42.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAKUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-21T17:28:50.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Services\\Implementations\\SessionService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SessionService.cs",
+              "ToolTip": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Services\\Implementations\\SessionService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:28:28.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "Controllers\\SessionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:27:37.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:27:36.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:27:26.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Models\\Session.cs",
+              "ToolTip": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Models\\Session.cs",
+              "RelativeToolTip": "Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:27:24.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Drankovich\\Documents\\Test\\Lab-5-Test-Task\\Lab5TestTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:27:13.072Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
